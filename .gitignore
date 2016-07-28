@@ -1,0 +1,7 @@
+.DS_Store
+.envrc
+.direnv
+.ipnyb_checkpoints
+__pycache__
+*.pyc
+consumer-complaints
